@@ -1,4 +1,4 @@
-#A Base64 Decoder and A Guide On How To Retrieve Blocked GMail Emails
+# A Base64 Decoder and A Guide On How To Retrieve Blocked GMail Emails
 
 ## Getting Started
 This project is a solution to retrieval of blocked gmail emails with the binary attachments

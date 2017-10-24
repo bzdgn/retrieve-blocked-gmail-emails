@@ -84,6 +84,6 @@ directory as usual. But if you come here only to convert your Base64 content, go
 
 [/RunnableJar](RunnableJar)
 	
-folder. You can simply download the Runnable Jar [ConvertBase64.jar](https://github.com/bzdgn/retrieve-blocked-gmail-emails/blob/master/RunnableJar/ConvertBase64.jar) and run on the command line.
+folder. You can simply download the Runnable Jar [ConvertBase64.jar](https://github.com/bzdgn/retrieve-blocked-gmail-emails/raw/master/RunnableJar/ConvertBase64.jar) and run on the command line.
 
 [Go Back To Contents](#contents)

@@ -67,4 +67,4 @@ directory as usual. But if you come here only to convert your Base64 content, go
 
 [/RunnableJar](RunnableJar)
 	
-folder.
+folder. You can simply download the Runnable Jar [ConvertBase64.jar](ConvertBase64.jar) and run on the command line.

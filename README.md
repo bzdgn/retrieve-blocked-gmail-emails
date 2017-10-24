@@ -2,6 +2,8 @@
 
 ******************************************************************************************
 
+## Contents
+
 - [Getting Started](#getting-started)
 - [How To Retrieve Blocked Gmail Email Content In Base64 Form](#a-how-to-retrieve-blocked-gmail-email-content-in-base64-form)
 - [Use Provided Software And Convert And Write Base64 Content Into Binary File](#b-use-provided-software-and-convert-and-write-base64-content-into-binary-file)
@@ -39,6 +41,8 @@ Then you are going to see the content in as below, download the Base64 Encoded c
 	<img src="https://github.com/bzdgn/retrieve-blocked-gmail-emails/blob/master/screen-shots/02_download_original.png" alt="download-original">
 </p>
 
+[Go Back To Contents](#contents)
+
 #### A-2) Trim The Original Content
 
 This is the content of your attachment, you must trim it so that only the Base64 Encoded part must be in the text file.
@@ -54,6 +58,8 @@ And after then, delete the last line of the file as below;
 	<img src="https://github.com/bzdgn/retrieve-blocked-gmail-emails/blob/master/screen-shots/04_trimming_b.png" alt="trimming-end-of-the-file">
 </p>
 
+[Go Back To Contents](#contents)
+
 ### B) Use Provided Software And Convert And Write Base64 Content Into Binary File
 
 You have the appropriote Base64 Content finally. Convert it to binary with the desired output name as below;
@@ -66,6 +72,8 @@ A simple example is shown in below;
 	<img src="https://github.com/bzdgn/retrieve-blocked-gmail-emails/blob/master/screen-shots/05_convert_example.png" alt="example">
 </p>
 
+[Go Back To Contents](#contents)
+
 ### C) Moreover
 
 You can find the source code in the 
@@ -77,3 +85,5 @@ directory as usual. But if you come here only to convert your Base64 content, go
 [/RunnableJar](RunnableJar)
 	
 folder. You can simply download the Runnable Jar [ConvertBase64.jar](ConvertBase64.jar) and run on the command line.
+
+[Go Back To Contents](#contents)

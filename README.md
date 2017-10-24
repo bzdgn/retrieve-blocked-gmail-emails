@@ -61,10 +61,10 @@ A simple example is shown in below;
 
 You can find the source code in the 
 	
-	[/src](src)
+[/src](src)
 	
-directory as usual. But if you come here only to convert your Base64 content, go directly to the 
+directory as usual. But if you come here only to convert your Base64 content, go directly to the  
 
-	[/RunnableJar](RunnableJar)
+[/RunnableJar](RunnableJar)
 	
 folder.

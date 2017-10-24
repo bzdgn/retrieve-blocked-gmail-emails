@@ -1,10 +1,12 @@
 # A Base64 Decoder and A Guide On How To Retrieve Blocked GMail Emails
 
 ******************************************************************************************
-[Getting Started](#getting-started)
-[How To Retrieve Blocked Gmail Email Content In Base64 Form](#a-how-to-retrieve-blocked-gmail-email-content-in-base64-form)
-[Use Provided Software And Convert And Write Base64 Content Into Binary File](#b-use-provided-software-and-convert-and-write-base64-content-into-binary-file)
-[Moreover](#c-moreover)
+
+- [Getting Started](#getting-started)
+- [How To Retrieve Blocked Gmail Email Content In Base64 Form](#a-how-to-retrieve-blocked-gmail-email-content-in-base64-form)
+- [Use Provided Software And Convert And Write Base64 Content Into Binary File](#b-use-provided-software-and-convert-and-write-base64-content-into-binary-file)
+- [Moreover](#c-moreover)
+
 ******************************************************************************************
 
 ## Getting Started

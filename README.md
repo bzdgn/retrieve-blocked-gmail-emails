@@ -2,9 +2,9 @@
 
 ******************************************************************************************
 [Getting Started](#getting-started)
-[How To Retrieve Blocked Gmail Email Content In Base64 Form](How-To-Retrieve-Blocked-Gmail-Email-Content-In-Base64-Form)
-[Use Provided Software And Convert And Write Base64 Content Into Binary File](Use-Provided-Software-And-Convert-And-Write-Base64-Content-Into-Binary-File)
-[Moreover](#Moreover)
+[How To Retrieve Blocked Gmail Email Content In Base64 Form](#a-how-to-retrieve-blocked-gmail-email-content-in-base64-form)
+[Use Provided Software And Convert And Write Base64 Content Into Binary File](#b-use-provided-software-and-convert-and-write-base64-content-into-binary-file)
+[Moreover](#c-moreover)
 ******************************************************************************************
 
 ## Getting Started
